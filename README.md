@@ -5,13 +5,13 @@
 
 <img align="right" alt="coding loop" width="500" src="https://i.imgur.com/a1PThb8.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
-
 - 🌱 I’m currently learning **Data Science / Python**
 
 - 📫 How to reach me? [here is my email](krishnavaghosh23@gmail.com)
 
 - ⚡ Fun fact **It’s impossible to hum while holding your nose (try it)**
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
