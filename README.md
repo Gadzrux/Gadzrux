@@ -5,7 +5,7 @@
 
 <img align="right" alt="coding loop" width="500" src="https://i.imgur.com/a1PThb8.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
 
 - 🌱 I’m currently learning **Data Science / Python**
 
