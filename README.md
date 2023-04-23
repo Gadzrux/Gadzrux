@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science / Python**
 
-- 📫 How to reach me **krishnavaghosh23@gmail.com**
+- 📫 How to reach me [email me](krishnavaghosh23@gmail.com)
 
 - ⚡ Fun fact **It’s impossible to hum while holding your nose (try it)**
 
