@@ -1,6 +1,6 @@
 ![logo](https://i.imgur.com/yJviLHL.gif)
-<img align="left" alt="welcome" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
-<img align="right" alt="welcome" width="100" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
+<img align="left" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
+<img align="right" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <h3 align="center">Eat -> code -> sleep -> repeat</h3>
 
 <img align="right" alt="coding loop" width="500" src="https://i.imgur.com/a1PThb8.gif">
