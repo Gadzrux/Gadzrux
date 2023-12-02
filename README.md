@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
 <img align="right" alt="coding loop"width="500"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-- 🌱 I’m currently learning **Data Science / Python**
+- 🌱 I’m currently learning **MERN Stack + TypeScript**
 
 - 📫 How to reach me? [here is my email](mailto:krishnavaghosh23@gmail.com)
 
