@@ -1,4 +1,6 @@
-![logo](https://i.imgur.com/yJviLHL.gif)
+<div align="center" >
+  <img alt="banner" src="https://i.imgur.com/yJviLHL.gif">
+</div>
 <img align="left" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <img align="right" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <h3 align="center">Eat -> code -> sleep -> repeat</h3>
