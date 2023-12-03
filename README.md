@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? [here is my email](mailto:krishnavaghosh23@gmail.com)
 
-- ⚡ Fun fact **It’s impossible to hum while holding your nose (try it)**
+- ⚡ Fun fact **The joke regarding the name of the language C++ is that C++ is "one version better" than straight C.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
