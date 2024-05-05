@@ -3,15 +3,13 @@
 </div>
 <img align="left" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <img align="right" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
-<h3 align="center">Eat -> code -> sleep -> repeat</h3>
+<h3 align="center">I stare at my screen and cry from time to time</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
 <img align="right" alt="coding loop"width="500"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
 - 🌱 I’m currently learning **MERN Stack + TypeScript**
 
 - 📫 How to reach me? [here is my email](mailto:krishnavaghosh23@gmail.com)
-
-- ⚡ Fun fact **The joke regarding the name of the language C++ is that C++ is "one version better" than straight C.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
