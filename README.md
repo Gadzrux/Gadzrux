@@ -5,7 +5,7 @@
 <img align="right" alt="welcome" width="50" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Q1ZTdmOWNiMzY3Y2VmNmRmNWQ0YTcwMmYwMTg0YjI1ZWUxNzFkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2Ygy0khwewLgMSYM0t/giphy.gif">
 <h3 align="center">I stare at my screen and cry</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gadzrux&label=Profile%20views&color=bf1dbf&style=flat" alt="Gadzrux" /> </p>
-<img align="right" alt="coding loop"width="500"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+<img align="right" alt="coding loop"width="500"src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif](https://i.gifer.com/6tXM.gif">
 
 - 🌱 I’m currently learning **MERN Stack + TypeScript**
 
